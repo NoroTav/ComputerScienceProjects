@@ -46,6 +46,5 @@ public class CompSciNotes_JavaStructure //Class Header
     public static void main(String[] args)//method header
     {
         //method body
-        System.out.println("Hello World");
     }
 }
